@@ -61,7 +61,8 @@ LIMIT 10;
 -**Remote Opportunities:** These jobs offer remote and hybrid opportunities which shows the flexibility in personnel location within these top company for high paying roles.
 
 
-![Top Paying Roles](assets\1_top_paying_roles.png)*Bar graph visualizing the salary for the top 10 salaries for data analysts; Created in Excel from my SQL results*
+![Top Paying Roles](assets\1_top_paying_roles.png)
+*Bar graph visualizing the salary for the top 10 salaries for data analysts; Created in Excel from my SQL results*
 
 ## 2. Skills For Top Paying Jobs
 To understand what skills are needed for the top-paying jobs, I joined the jop postings with the skills data, which provided insights into what employers values the most for high-compensation roles.
@@ -102,7 +103,8 @@ ORDER BY
 - Other skills like **R**, **Excel**, and **Power BI** show varying demand with these roles.
 - More niche skills like **Pyspark**, **Databricks**, and **Hadoop** only appear once among these high salary jobs.
 
-![Top Demanded Skills](assets\2_top_skills.png)*Bar graph visualizing the count of skills for the top 10 spaying jobs for data analysts; Created in Excel from my SQL results*
+![Top Demanded Skills](assets\2_top_skills.png)
+*Bar graph visualizing the count of skills for the top 10 spaying jobs for data analysts; Created in Excel from my SQL results*
 
 ## 3. In-Demand Skills for Data Analysts
 
